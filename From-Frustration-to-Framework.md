@@ -9,9 +9,3 @@ The principal culprit of the restricted output has been repeated bouts of overth
 Both personal projects I have created assume the most minimal investment in execution without sacrificing public understanding. In regards to basic form, I took on the bare form of a page I drafted for my final interview with the fine folks over at Artsy where I created a sort of mobile resume to assist my interviewers in conversation regarding my history — http://hoydbreton.com/artsy (btw, the interviews were a success however after some thinking, I stayed at my current company). For payments, I adopted PayPal vs a more sophisticated and personally desirable Stripe integration. These are my two active personal projects: Brutally Early Club and Reside. I'm looking forward to introducing the sophistication as needed.
 
 I thank Frank Chimero and Wilfredo Peña for this experience.
-
-#design thinking
-#design
-#frameworks
-#ideation
-#personal projects
